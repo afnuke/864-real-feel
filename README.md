@@ -4,7 +4,7 @@ Weather, made simple — for Greenville County, South Carolina.
 
 The thermometer gives you a number. This app tells you what it means: what you're actually walking into.
 
-**[⬇ Download the app (APK)](https://raw.githubusercontent.com/afnuke/864-real-feel/main/864%20Real%20Feel%20APK.apk%20(1))** — free. Android 8.0+.
+**[⬇ Download the app (APK)](https://raw.githubusercontent.com/afnuke/864-real-feel/main/864RealFeel.apk)** — free. Android 8.0+.
 
 ## What it does
 
